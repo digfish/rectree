@@ -15,7 +15,7 @@ There is no limit for the directories to monitor.
 To get the package you can install it:
 
 ```
-pip install
+pip install rectree-digfish
 ```
 
 And to execute it:
